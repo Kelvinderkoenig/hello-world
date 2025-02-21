@@ -1,7 +1,7 @@
 # hello-world
 This repository is for practicing the GitHub Flow
 I am an **awesome** man. 
-I am learning ""GitHub**. 
+I am learning *GitHub*. 
 ## My Passions:
 - Accounting
 - Business Analytics
